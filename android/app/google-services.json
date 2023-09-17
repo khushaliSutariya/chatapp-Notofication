@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753677101111",
+    "project_id": "massanger-259b9",
+    "storage_bucket": "massanger-259b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753677101111:android:df3a08673e355c3318b7b2",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753677101111-odon6r5omc3d7hp4102qo1ton9j0pdpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7XpvIkfz6nsHCvHG14RwSRyUCharrx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753677101111-odon6r5omc3d7hp4102qo1ton9j0pdpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
